@@ -1,4 +1,4 @@
-# Basic Perceptron Neural Network (Production-Ready Version)
+# Basic Perceptron Neural Network
 
 This repository contains a refactored and enhanced implementation of a basic perceptron neural network. The code has been modularized into a Python package and improved with visualization, hardware acceleration support, testing, and documentation, making it ready for production use.
 
